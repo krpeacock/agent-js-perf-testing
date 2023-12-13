@@ -1,0 +1,13 @@
+{
+    "canisters": {
+        "test": {
+            "type": "motoko",
+            "main": "src/test.mo",
+            "declarations": {
+                "node_compatibility": true
+            }
+        }
+    },
+    "output_env_file": ".env",
+    "version": 1
+}
